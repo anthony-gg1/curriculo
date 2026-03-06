@@ -1,2 +1,2 @@
-# curriculo
-Meu currículo
+# Curriculo
+Meu currículo pessoal
